@@ -7,12 +7,4 @@
 			<class name="com.herokuapp.theinternet.loginpagetests.PositiveLogInTests" />
 		</classes>
 	</test>
-	
-	<test name="PositiveLogInTest-WPr">
-		<parameter name="chromeProfile" value="ChromeProfile"></parameter>
-		<classes>
-			<class name="com.herokuapp.theinternet.loginpagetests.PositiveLogInTests" />
-		</classes>
-	</test>
-	
 </suite>
