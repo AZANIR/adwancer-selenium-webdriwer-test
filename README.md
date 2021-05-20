@@ -1,2 +1,2 @@
-# Code examples for Advanced Selenium Webdriver course on Udemy.
+# Code examples for Advanced Selenium Webdriver Test.
 "Advanced Selenium WebDriver with Java and TestNG and Allure" 
